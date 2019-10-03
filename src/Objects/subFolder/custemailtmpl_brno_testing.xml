@@ -1,0 +1,11 @@
+<emailtemplate scriptid="custemailtmpl_brno_testing">
+  <addcompanyaddress>T</addcompanyaddress>
+  <addunsubscribelink>T</addunsubscribelink>
+  <description></description>
+  <isinactive>F</isinactive>
+  <isprivate>F</isprivate>
+  <name>testing Brno modified</name>
+  <recordtype></recordtype>
+  <subject></subject>
+  <usesmedia>F</usesmedia>
+</emailtemplate>

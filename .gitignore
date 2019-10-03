@@ -1,0 +1,6 @@
+#IDE configuration files
+.idea
+*.iml
+
+# OS X trash files
+.DS_Store
