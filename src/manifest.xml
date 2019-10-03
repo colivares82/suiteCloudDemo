@@ -1,12 +1,7 @@
 <manifest projecttype="SUITEAPP">
   <publisherid>com.toolsdemo</publisherid>
   <projectid>suiteclouddemo</projectid>
-  <projectname>suiteclouddemo</projectname>
+  <projectname>SuiteCloud Demo</projectname>
   <projectversion>1.0.0</projectversion>
   <frameworkversion>1.0</frameworkversion>
-  <dependencies>
-    <features>
-      <feature required="true">CRM</feature>
-    </features>
-  </dependencies>
 </manifest>
